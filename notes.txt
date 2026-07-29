@@ -1,3 +1,4 @@
 skipped problems:
     - group anagrams
-    - 
+    - encode decode
+    - longest consecutive sentence
