@@ -5,13 +5,13 @@ skipped problems:
 
 TO STUDY:
 - two sum √
-- 3sum
-- longest substring without repeating chars *
-- contains duplicate
-- valid anagram
-- best time to buy/sell stock
-- group anagrams
-- top k frequent elements
-- subarray sum equals k
-- valid palindrome
-- find all anagrams in a string
+- 3sum √
+- longest substring without repeating chars √
+- contains duplicate √
+- valid anagram √
+- best time to buy/sell stock *
+- group anagrams √
+- top k frequent elements √
+- subarray sum equals k *
+- valid palindrome √
+- find all anagrams in a string *
